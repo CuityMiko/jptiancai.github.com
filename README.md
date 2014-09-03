@@ -14,3 +14,4 @@
 - [Sarvagya Vaish](https://github.com/SarvagyaVaish/SarvagyaVaish.github.io):Campus Buzz的学生,看起来很想阿.不够他的两个项目挺好玩`2048-AI`和`FLappyBiredRL`
 - [ime@极客学院-plte](https://github.com/plter/plter.github.io):eoe社的.
 - [idning](https://github.com/idning/idning.github.com):`python`,`linux`
+- [codingnow-Alex Zhou的程序世界](https://github.com/zhoujianghai/zhoujianghai.github.io):`cocos2d-x`,`python`
