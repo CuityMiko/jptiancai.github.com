@@ -13,4 +13,4 @@
   - [This Blog Is Now Hosted On Github](http://openmymind.net/2011/10/11/This-Blog-Is-Now-Hosted-On-Github/)
 - [Sarvagya Vaish](https://github.com/SarvagyaVaish/SarvagyaVaish.github.io):Campus Buzz的学生,看起来很想阿.不够他的两个项目挺好玩`2048-AI`和`FLappyBiredRL`
 - [ime@极客学院-plte](https://github.com/plter/plter.github.io):eoe社的.
-
+- [idning](https://github.com/idning/idning.github.com):`python`,`linux`
