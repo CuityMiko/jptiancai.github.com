@@ -13,6 +13,7 @@
 - 弄潮儿
   - [karl seguin](https://github.com/karlseguin/karlseguin.github.com):掌握了很多新技术,`ruby`,`Node.js`,`Golang`等
     - [This Blog Is Now Hosted On Github](http://openmymind.net/2011/10/11/This-Blog-Is-Now-Hosted-On-Github/)
+    - [胡家威,hujiaweibujidao](http://hujiaweibujidao.github.io/):喜欢Java/Python/Linux/Android/RaspberryPi
   
 - 游戏
   - [Sarvagya Vaish](https://github.com/SarvagyaVaish/SarvagyaVaish.github.io):Campus Buzz的学生,看起来很想阿.不够他的两个项目挺好玩`2048-AI`和`FLappyBiredRL`
