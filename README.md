@@ -23,6 +23,7 @@
   - [wong2](https://github.com/wong2/wong2.github.io):豆瓣`python`工程师一枚,人人网小黄鸡发明者.
   - [idning](https://github.com/idning/idning.github.com):`python`,`linux`
   - [codingnow-Alex Zhou的程序世界](https://github.com/zhoujianghai/zhoujianghai.github.io):`cocos2d-x`,`python`
+  - [mockee](https://github.com/mockee/mockee.github.com):`豆瓣`一名前端,很简洁的气质.
 
 - Android
   - [李明亮,mthli](https://mthli.github.io):来自于[西安电子科技大学开源社区](https://github.com/xdlinux)的一员,作品有`极客公园APP`和在Android手机上查看`github`上的代码.
