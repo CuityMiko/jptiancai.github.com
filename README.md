@@ -32,3 +32,4 @@
   - [write blog on github](http://matrix207.github.io/2012/09/09/write-blog-on-github/)
   - [alexle](https://github.com/alexle/alexle.github.com):希捷技术部工程师
     - [Why I Moved My Blog To Github Pages](http://alexanderle.com/blog/2012/move-to-github.html)
+  - [Eren](https://github.com/erenyagdiran/erenyagdiran.github.io): linux and security 专家啊.
