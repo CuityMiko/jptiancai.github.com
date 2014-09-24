@@ -27,7 +27,10 @@
 
 - Android
   - [李明亮,mthli](https://mthli.github.io):来自于[西安电子科技大学开源社区](https://github.com/xdlinux)的一员,作品有`极客公园APP`和在Android手机上查看`github`上的代码.
-  - [Trinea](https://github.com/Trinea/trinea.github.com):用过 C++，敲过汇编，有 PHP 和 C# 网站项目，Hello World 过 Matlab 和 Delphi。一直主攻 Java，专于性能调优和框架设计。
+  - [Trinea](https://github.com/Trinea/trinea.github.com):开源android项目汇总.用过 C++，敲过汇编，有 PHP 和 C# 网站项目，Hello World 过 Matlab 和 Delphi。一直主攻 Java，专于性能调优和框架设计。
+
+- IOS
+  - [ibireme](https://github.com/ibireme/ibireme.github.com):注意看下`github/list/ios`子目录,开源IOS项目汇总.
 
 - other
   - [write blog on github](http://matrix207.github.io/2012/09/09/write-blog-on-github/)
