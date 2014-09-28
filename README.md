@@ -39,3 +39,4 @@
   - [alexle](https://github.com/alexle/alexle.github.com):希捷技术部工程师
     - [Why I Moved My Blog To Github Pages](http://alexanderle.com/blog/2012/move-to-github.html)
   - [Eren](https://github.com/erenyagdiran/erenyagdiran.github.io): linux and security 专家啊.
+  - [crhan](https://github.com/crhan/crhan.github.io):阿里巴巴,对Bash用的比较多
