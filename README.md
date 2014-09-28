@@ -33,6 +33,7 @@
 
 - IOS
   - [ibireme](https://github.com/ibireme/ibireme.github.com):注意看下`github/list/ios`子目录,开源IOS项目汇总.
+  - [lzyy](https://github.com/lzyy/lzyy.github.com):ActionScript / HTML+CSS+Javscript -> PHP -> Python -> Objective-C
 
 - other
   - [write blog on github](http://matrix207.github.io/2012/09/09/write-blog-on-github/)
