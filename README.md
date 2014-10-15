@@ -3,7 +3,7 @@
 --------------------
 推荐用github pages当做**项目**介绍,希望大家多加补充
 
-- [springside/springside4主站](springside.github.com)
+- [springside/springside4主站](http://springside.github.com)
 
 推荐用github pages做**博客**的牛人们,希望大家多加补充
 
