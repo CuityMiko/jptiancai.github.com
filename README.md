@@ -46,3 +46,4 @@
   - [Eren](https://github.com/erenyagdiran/erenyagdiran.github.io): linux and security 专家啊.
   - [crhan](https://github.com/crhan/crhan.github.io):阿里巴巴,对Bash用的比较多
   - [steveliles](https://github.com/steveliles/steveliles.github.com):一个`code every day Development Manager`
+  - [JackRex](https://github.com/jackrex/jackrex.github.comJackRex):`ios`和`Android`都能搞的一个牛人.
