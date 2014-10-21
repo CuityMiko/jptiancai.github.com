@@ -30,6 +30,7 @@
   - [idning](https://github.com/idning/idning.github.com):`python`,`linux`
   - [codingnow-Alex Zhou的程序世界](https://github.com/zhoujianghai/zhoujianghai.github.io):`cocos2d-x`,`python`
   - [mockee](https://github.com/mockee/mockee.github.com):`豆瓣`一名前端,很简洁的气质.
+  - [taizilongxu](https://github.com/taizilongxu/taizilongxu.github.io):辽宁大学,Python工程师一枚.推荐看博客关于页面的`打印`效果
 
 - Android
   - [李明亮,mthli](https://mthli.github.io):来自于[西安电子科技大学开源社区](https://github.com/xdlinux)的一员,作品有`极客公园APP`和在Android手机上查看`github`上的代码.
@@ -38,6 +39,7 @@
 - IOS
   - [ibireme](https://github.com/ibireme/ibireme.github.com):注意看下`github/list/ios`子目录,开源IOS项目汇总.
   - [lzyy](https://github.com/lzyy/lzyy.github.com):ActionScript / HTML+CSS+Javscript -> PHP -> Python -> Objective-C
+  - [liushuaikobe](https://github.com/liushuaikobe/liushuaikobe.github.io):阿里巴巴ios工程师一枚.
 
 - other
   - [write blog on github](http://matrix207.github.io/2012/09/09/write-blog-on-github/)
