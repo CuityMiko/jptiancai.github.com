@@ -15,6 +15,7 @@
   - [梦想天空](https://github.com/dreamsky/dreamsky.github.com):前端热门资料收集者
   - [ycf,you can fly](https://github.com/YCF/ycf.github.io):My blog powered by Hooloo ( JavaScript ) . 
   - [lijsh](https://github.com/lijsh/lijsh.github.io):用Octopress搭建的个人博客
+  - [lvwzhen](https://github.com/lvwzhen/lvwzhen.github.com):[thus.in网站](http://thus.in/)的前端.
 
 - 弄潮儿
   - [karl seguin](https://github.com/karlseguin/karlseguin.github.com):掌握了很多新技术,`ruby`,`Node.js`,`Golang`等
