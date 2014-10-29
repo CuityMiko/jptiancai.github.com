@@ -4,6 +4,7 @@
 推荐用github pages当做**项目**介绍,希望大家多加补充
 
 - [springside/springside4主站](http://springside.github.com)
+- [CommonMark](https://github.com/coding-horror/coding-horror.github.io):coding-horror开源工具,CommonMark
 
 推荐用github pages做**博客**的牛人们,希望大家多加补充
 
@@ -17,6 +18,7 @@
   - [lijsh](https://github.com/lijsh/lijsh.github.io):用Octopress搭建的个人博客
   - [lvwzhen](https://github.com/lvwzhen/lvwzhen.github.com):[thus.in网站](http://thus.in/)的前端.
   - [winterland](https://github.com/winterland1989/hexo-theme-winterland):JS CSS PYTHON JAVA C.在读研究生一枚
+  - [cattail](https://github.com/CatTail/cattail.github.io):[趣点公司](http://blog.qudian.org/)的前端一枚,对原理性的知识(比如`Node.js`)掌握比较好.
 
 - 弄潮儿
   - [karl seguin](https://github.com/karlseguin/karlseguin.github.com):掌握了很多新技术,`ruby`,`Node.js`,`Golang`等
