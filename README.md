@@ -3,8 +3,13 @@
 --------------------
 推荐用github pages当做**项目**介绍,希望大家多加补充
 
+- [AlloyTeam ](https://github.com/AlloyTeam/alloyteam.github.com)
+  - [AlloyTeamMobile](https://github.com/AlloyTeamMobile/AlloyTeamMobile.github.io)
+- [webpy](https://github.com/webpy/webpy.github.com)
 - [springside/springside4主站](http://springside.github.com)
 - [CommonMark](https://github.com/coding-horror/coding-horror.github.io):coding-horror开源工具,CommonMark
+- [uc labs](https://github.com/uclabs/uclabs.github.com)
+- [神奇一号报价单打印系统](shenqiyihao.github.io)
 
 推荐用github pages做**博客**的牛人们,希望大家多加补充
 
@@ -19,6 +24,8 @@
   - [lvwzhen](https://github.com/lvwzhen/lvwzhen.github.com):[thus.in网站](http://thus.in/)的前端.
   - [winterland](https://github.com/winterland1989/hexo-theme-winterland):JS CSS PYTHON JAVA C.在读研究生一枚
   - [cattail](https://github.com/CatTail/cattail.github.io):[趣点公司](http://blog.qudian.org/)的前端一枚,对原理性的知识(比如`Node.js`)掌握比较好.
+  - [ZoomZhao](zoomzhao.github.com):UC 前端一枚
+  - [masterliu](https://github.com/materliu/materliu.github.io):淘宝->腾讯>小米
 
 - 弄潮儿
   - [karl seguin](https://github.com/karlseguin/karlseguin.github.com):掌握了很多新技术,`ruby`,`Node.js`,`Golang`等
