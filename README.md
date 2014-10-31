@@ -3,6 +3,7 @@
 --------------------
 推荐用github pages当做**项目**介绍,希望大家多加补充
 
+- [七牛开发者中心](https://github.com/qiniu/developer.qiniu.com)
 - [AlloyTeam ](https://github.com/AlloyTeam/alloyteam.github.com)
   - [AlloyTeamMobile](https://github.com/AlloyTeamMobile/AlloyTeamMobile.github.io)
 - [webpy](https://github.com/webpy/webpy.github.com)
@@ -15,6 +16,7 @@
 
 - linux
   - [matrix207](http://matrix207.github.io/):`c/c++`,`Linux`工程师一枚
+  - [tankywoo](https://github.com/tankywoo/tankywoo.github.io):Simiki的作者
 
 - 前端
   - [岁月如歌](https://github.com/lifesinger/lifesinger.github.com) :阿里前端工程师一枚
@@ -56,6 +58,7 @@
   - [songjiayang](https://github.com/songjiayang/songjiayang.github.io):会java,主业Ruby的[gigabase](http://gigabase.org/)工程师一枚.
 
 - other
+  - [livid](https://github.com/livid/livid.github.com):去过[v2ex](http://www.v2ex.com/)网站的程序员不用我介绍了吧.
   - [write blog on github](http://matrix207.github.io/2012/09/09/write-blog-on-github/)
   - [alexle](https://github.com/alexle/alexle.github.com):希捷技术部工程师
     - [Why I Moved My Blog To Github Pages](http://alexanderle.com/blog/2012/move-to-github.html)
