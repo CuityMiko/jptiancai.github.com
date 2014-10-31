@@ -52,6 +52,9 @@
   - [lzyy](https://github.com/lzyy/lzyy.github.com):ActionScript / HTML+CSS+Javscript -> PHP -> Python -> Objective-C
   - [liushuaikobe](https://github.com/liushuaikobe/liushuaikobe.github.io):阿里巴巴ios工程师一枚.
 
+- Ruby
+  - [songjiayang](https://github.com/songjiayang/songjiayang.github.io):会java,主业Ruby的[gigabase](http://gigabase.org/)工程师一枚.
+
 - other
   - [write blog on github](http://matrix207.github.io/2012/09/09/write-blog-on-github/)
   - [alexle](https://github.com/alexle/alexle.github.com):希捷技术部工程师
