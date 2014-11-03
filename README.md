@@ -57,6 +57,9 @@
 - Ruby
   - [songjiayang](https://github.com/songjiayang/songjiayang.github.io):会java,主业Ruby的[gigabase](http://gigabase.org/)工程师一枚.
 
+- Java
+  - [novoland](https://github.com/novoland/blog):关注java并发和底层.
+
 - other
   - [livid](https://github.com/livid/livid.github.com):去过[v2ex](http://www.v2ex.com/)网站的程序员不用我介绍了吧.
   - [write blog on github](http://matrix207.github.io/2012/09/09/write-blog-on-github/)
