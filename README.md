@@ -44,6 +44,7 @@
   - [codingnow-Alex Zhou的程序世界](https://github.com/zhoujianghai/zhoujianghai.github.io):`cocos2d-x`,`python`
   - [mockee](https://github.com/mockee/mockee.github.com):`豆瓣`一名前端,很简洁的气质.
   - [taizilongxu](https://github.com/taizilongxu/taizilongxu.github.io):辽宁大学,Python工程师一枚.推荐看博客关于页面的`打印`效果
+  - [deepgully](https://github.com/deepgully/me/):经过[v2ex](http://www.v2ex.com/)V友推荐,后台采用[Flask](http://docs.jinkan.org/docs/flask/),功能强大.
 
 - Android
   - [李明亮,mthli](https://mthli.github.io):来自于[西安电子科技大学开源社区](https://github.com/xdlinux)的一员,作品有`极客公园APP`和在Android手机上查看`github`上的代码.
@@ -69,3 +70,4 @@
   - [crhan](https://github.com/crhan/crhan.github.io):阿里巴巴,对Bash用的比较多
   - [steveliles](https://github.com/steveliles/steveliles.github.com):一个`code every day Development Manager`
   - [JackRex](https://github.com/jackrex/jackrex.github.comJackRex):`ios`和`Android`都能搞的一个牛人.
+
