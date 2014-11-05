@@ -28,6 +28,7 @@
   - [cattail](https://github.com/CatTail/cattail.github.io):[趣点公司](http://blog.qudian.org/)的前端一枚,对原理性的知识(比如`Node.js`)掌握比较好.
   - [ZoomZhao](zoomzhao.github.com):UC 前端一枚
   - [masterliu](https://github.com/materliu/materliu.github.io):淘宝->腾讯>小米
+  - [justjavac](https://github.com/justjavac/justjavac.github.com):之前在`ITeye`发表过很多励志文章,推荐大家看一下.另外正在出版书籍`代码之谜`
 
 - 弄潮儿
   - [karl seguin](https://github.com/karlseguin/karlseguin.github.com):掌握了很多新技术,`ruby`,`Node.js`,`Golang`等
