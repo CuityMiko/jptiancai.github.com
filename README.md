@@ -11,6 +11,9 @@
 - [CommonMark](https://github.com/coding-horror/coding-horror.github.io):coding-horror开源工具,CommonMark
 - [uc labs](https://github.com/uclabs/uclabs.github.com)
 - [神奇一号报价单打印系统](shenqiyihao.github.io)
+- [fex-team](https://github.com/fex-team/fex-team.github.io):FEX,百度WEB前端研发部
+- [黑龙江科技大学信息网络中心大学生多媒体课件开发工作室](https://github.com/UCAIS/ucais.github.com)
+- [黑龙江科技大学官网](https://github.com/UCAIS/Mayday)
 
 推荐用github pages做**博客**的牛人们,希望大家多加补充
 
@@ -29,6 +32,8 @@
   - [ZoomZhao](zoomzhao.github.com):UC 前端一枚
   - [masterliu](https://github.com/materliu/materliu.github.io):淘宝->腾讯>小米
   - [justjavac](https://github.com/justjavac/justjavac.github.com):之前在`ITeye`发表过很多励志文章,推荐大家看一下.另外正在出版书籍`代码之谜`
+  - [wayou](https://github.com/wayou/wayou.github.io):百度前端工程师
+  - [tengfeiqi](https://github.com/TengfeiQi/tengfeiqi.github.io):会书法的百度前端
 
 - 弄潮儿
   - [karl seguin](https://github.com/karlseguin/karlseguin.github.com):掌握了很多新技术,`ruby`,`Node.js`,`Golang`等
@@ -38,6 +43,7 @@
 - 游戏
   - [Sarvagya Vaish](https://github.com/SarvagyaVaish/SarvagyaVaish.github.io):Campus Buzz的学生,看起来很想阿.不够他的两个项目挺好玩`2048-AI`和`FLappyBiredRL`
   - [ime@极客学院-plte](https://github.com/plter/plter.github.io):eoe社的.
+  - [dabing1022](https://github.com/dabing1022/Blog):泰然网工程师,推荐的[博客资源](http://childhood.logdown.com/pages/blog-res)非常不错
 
 - python
   - [wong2](https://github.com/wong2/wong2.github.io):豆瓣`python`工程师一枚,人人网小黄鸡发明者.
