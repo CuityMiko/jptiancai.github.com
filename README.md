@@ -13,7 +13,10 @@
 - [神奇一号报价单打印系统](shenqiyihao.github.io)
 - [fex-team](https://github.com/fex-team/fex-team.github.io):FEX,百度WEB前端研发部
 - [黑龙江科技大学信息网络中心大学生多媒体课件开发工作室](https://github.com/UCAIS/ucais.github.com)
-- [黑龙江科技大学官网](https://github.com/UCAIS/Mayday)
+  - [黑龙江科技大学官网](https://github.com/UCAIS/Mayday)
+- [neovim](https://github.com/neovim/neovim.github.io):`The Vim text editor has been loved by a generation of users.`
+- [choosealicense](https://github.com/github/choosealicense.com):帮助你选择更好的协议
+
 
 推荐用github pages做**博客**的牛人们,希望大家多加补充
 
@@ -44,6 +47,8 @@
   - [Sarvagya Vaish](https://github.com/SarvagyaVaish/SarvagyaVaish.github.io):Campus Buzz的学生,看起来很想阿.不够他的两个项目挺好玩`2048-AI`和`FLappyBiredRL`
   - [ime@极客学院-plte](https://github.com/plter/plter.github.io):eoe社的.
   - [dabing1022](https://github.com/dabing1022/Blog):泰然网工程师,推荐的[博客资源](http://childhood.logdown.com/pages/blog-res)非常不错
+  - [crosslife](https://github.com/crosslife/crosslife.github.io):`OpenBird`和`LoveClear`的作者
+  - [fusijie](https://github.com/fusijie/fusijie.github.com):`微信飞机大战`,`玩转cocos2d-x 系列`,`Earth Warrior 3D`和`Wagon War`的作者 
 
 - python
   - [wong2](https://github.com/wong2/wong2.github.io):豆瓣`python`工程师一枚,人人网小黄鸡发明者.
