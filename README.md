@@ -17,6 +17,7 @@
 - [neovim](https://github.com/neovim/neovim.github.io):`The Vim text editor has been loved by a generation of users.`
 - [choosealicense](https://github.com/github/choosealicense.com):帮助你选择更好的协议
 - [zynga](https://github.com/zynga/zynga.github.io):做游戏的应该都知道`zynga`,该网站有一个很不错的Top 10 Repos列表.
+- [resrc](https://github.com/vhf/resrc):Source code of reSRC.io,推荐免费编程书籍网站.
 
 推荐用github pages做**博客**的牛人们,希望大家多加补充
 
