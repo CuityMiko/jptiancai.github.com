@@ -50,6 +50,7 @@
   - [dabing1022](https://github.com/dabing1022/Blog):泰然网工程师,推荐的[博客资源](http://childhood.logdown.com/pages/blog-res)非常不错
   - [crosslife](https://github.com/crosslife/crosslife.github.io):`OpenBird`和`LoveClear`的作者
   - [fusijie](https://github.com/fusijie/fusijie.github.com):`微信飞机大战`,`玩转cocos2d-x 系列`,`Earth Warrior 3D`和`Wagon War`的作者 
+  - [zhoujianghai](https://github.com/zhoujianghai/zhoujianghai.github.io):Tencent某studio从事手游开发
 
 - python
   - [wong2](https://github.com/wong2/wong2.github.io):豆瓣`python`工程师一枚,人人网小黄鸡发明者.
@@ -84,4 +85,4 @@
   - [crhan](https://github.com/crhan/crhan.github.io):阿里巴巴,对Bash用的比较多
   - [steveliles](https://github.com/steveliles/steveliles.github.com):一个`code every day Development Manager`
   - [JackRex](https://github.com/jackrex/jackrex.github.comJackRex):`ios`和`Android`都能搞的一个牛人.
-
+  - [hawstein](https://github.com/Hawstein/hawstein.github.com):python,c++,linux,java
