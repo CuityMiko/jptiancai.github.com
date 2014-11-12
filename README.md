@@ -78,6 +78,7 @@
 
 - other
   - [livid](https://github.com/livid/livid.github.com):去过[v2ex](http://www.v2ex.com/)网站的程序员不用我介绍了吧.
+  - [halida](https://github.com/halida/halida.github.com):c/c++/D/lua/delphi/python/js/coffeescript/ruby/lisp
   - [write blog on github](http://matrix207.github.io/2012/09/09/write-blog-on-github/)
   - [alexle](https://github.com/alexle/alexle.github.com):希捷技术部工程师
     - [Why I Moved My Blog To Github Pages](http://alexanderle.com/blog/2012/move-to-github.html)
