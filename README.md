@@ -38,6 +38,7 @@
   - [justjavac](https://github.com/justjavac/justjavac.github.com):之前在`ITeye`发表过很多励志文章,推荐大家看一下.另外正在出版书籍`代码之谜`
   - [wayou](https://github.com/wayou/wayou.github.io):百度前端工程师
   - [tengfeiqi](https://github.com/TengfeiQi/tengfeiqi.github.io):会书法的百度前端
+  - [hacke2](https://github.com/hacke2/hacke2.github.io):`神马搜索`的前端
 
 - 弄潮儿
   - [karl seguin](https://github.com/karlseguin/karlseguin.github.com):掌握了很多新技术,`ruby`,`Node.js`,`Golang`等
