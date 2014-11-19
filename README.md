@@ -61,6 +61,7 @@
   - [mockee](https://github.com/mockee/mockee.github.com):`豆瓣`一名前端,很简洁的气质.
   - [taizilongxu](https://github.com/taizilongxu/taizilongxu.github.io):辽宁大学,Python工程师一枚.推荐看博客关于页面的`打印`效果
   - [deepgully](https://github.com/deepgully/me/):经过[v2ex](http://www.v2ex.com/)V友推荐,后台采用[Flask](http://docs.jinkan.org/docs/flask/),功能强大.
+  - [humiaozuzu](https://github.com/humiaozuzu/humiaozuzu.github.com):Maple，喜欢游戏「Maple Story」，果粉，Python DevOps，目前也干点 SA/DBA 的活。
 
 - Android
   - [李明亮,mthli](https://mthli.github.io):来自于[西安电子科技大学开源社区](https://github.com/xdlinux)的一员,作品有`极客公园APP`和在Android手机上查看`github`上的代码.
