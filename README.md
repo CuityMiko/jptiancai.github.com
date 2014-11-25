@@ -93,3 +93,7 @@
   - [steveliles](https://github.com/steveliles/steveliles.github.com):一个`code every day Development Manager`
   - [JackRex](https://github.com/jackrex/jackrex.github.comJackRex):`ios`和`Android`都能搞的一个牛人.
   - [hawstein](https://github.com/Hawstein/hawstein.github.com):python,c++,linux,java
+  - [beiyuu](https://github.com/beiyuu/Github-Pages-Example):`OverAPI`的作者,写`chrome`插件.
+
+- Students
+  - [andylei1993](http://andylei1993.github.io/about/):学生一枚,不过有追求.现在的学生都了不得了.
