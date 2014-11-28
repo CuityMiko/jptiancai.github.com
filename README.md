@@ -44,6 +44,7 @@
   - [wayou](https://github.com/wayou/wayou.github.io):百度前端工程师
   - [tengfeiqi](https://github.com/TengfeiQi/tengfeiqi.github.io):会书法的百度前端
   - [hacke2](https://github.com/hacke2/hacke2.github.io):`神马搜索`的前端
+  - [icaife](https://github.com/icaife/icaife.github.com):人称"蔡哥",美乐乐前端
 
 - 弄潮儿
   - [karl seguin](https://github.com/karlseguin/karlseguin.github.com):掌握了很多新技术,`ruby`,`Node.js`,`Golang`等
