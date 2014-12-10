@@ -24,6 +24,7 @@
 - [Douban CODE](https://github.com/douban/code):豆瓣协同工具.
 - [siberiawolf](https://github.com/siberiawolf/siberiawolf.github.io):免费的编程中文书籍索引网站的Bootstrap版本
 - [mrdoob](https://github.com/mrdoob/mrdoob.github.com):设计风格别具一格.
+- [EFE](http://ecomfe.github.io/#platform):百度商业体系前端团队,采用单页面展示,如果你知道`echarts`的话.
 
 推荐用github pages做**博客**的牛人们,希望大家多加补充
 
