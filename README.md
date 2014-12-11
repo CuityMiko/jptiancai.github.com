@@ -3,17 +3,17 @@
 --------------------
 ### 目录
 
-* [github pages for project](#github pages for project)
-* [github pages for blog](#github pages for blog)
+* [github-pages-for-project](#github-pages-for-project)
+* [github-pages-for-blog](#github-pages-for-blog)
   * [linux](#linux)
   * [front-end](#front-end)
   * [game](#game)
   * [python](#python)
-  * [Android](#Android)
-  * [IOS](#IOS)
-  * [Ruby](#Ruby)
-  * [Java](#Java)
-  * [Students](#Students)
+  * [Android](#android)
+  * [IOS](#ios)
+  * [Ruby](#ruby)
+  * [Java](#java)
+  * [Students](#students)
   * [other](#other)
 
 
