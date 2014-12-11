@@ -1,7 +1,24 @@
 不知道从什么时候开始喜欢上了用`Markdown`的格式写文章,越写越舒服,慢慢就离不开了.于是就找了一些可以用`Markdown`来写博客的网站,这里可以以参考知乎的一个讨论:[FarBox、Jekyll、Octopress、ghost、marboo、Hexo、Medium、Logdown、prose.io，这些博客程序有什么特点？](http://www.zhihu.com/question/21981094)
 
 --------------------
-推荐用github pages当做**项目**介绍,希望大家多加补充
+### 目录
+
+* [推荐用github pages当做项目介绍](#推荐用github pages当做项目介绍类)
+* [推荐用github pages做博客的牛人们](#推荐用github pages做博客的牛人们)
+  * [linux](#linux)
+  * [前端](#前端)
+  * [弄潮儿](#弄潮儿)
+  * [游戏](#游戏)
+  * [python](#python)
+  * [Android](#Android)
+  * [IOS](#IOS)
+  * [Ruby](#Ruby)
+  * [Java](#Java)
+  * [Students](#Students)
+  * [other](#other)
+
+
+##推荐用github pages当做项目介绍
 
 - [七牛开发者中心](https://github.com/qiniu/developer.qiniu.com)
 - [AlloyTeam ](https://github.com/AlloyTeam/alloyteam.github.com)
@@ -27,14 +44,14 @@
 - [EFE](http://ecomfe.github.io/#platform):百度商业体系前端团队,采用单页面展示,如果你知道`echarts`的话.
 - [spring](https://github.com/spring-projects/gh-pages):把公共的部分抽象了出来,看起来很带感,没想到写文档还能这么抽象化,哈哈!
 
-推荐用github pages做**博客**的牛人们,希望大家多加补充
+##推荐用github pages做博客的牛人们
 
-- linux
+### linux
   - [matrix207](http://matrix207.github.io/):`c/c++`,`Linux`工程师一枚
   - [tankywoo](https://github.com/tankywoo/tankywoo.github.io):Simiki的作者
   - [alwayswithme](http://alwayswithme.github.io/about.html):Linuxer,Coder
 
-- 前端
+### 前端
   - [岁月如歌](https://github.com/lifesinger/lifesinger.github.com) :阿里前端工程师一枚
   - [梦想天空](https://github.com/dreamsky/dreamsky.github.com):前端热门资料收集者
   - [ycf,you can fly](https://github.com/YCF/ycf.github.io):My blog powered by Hooloo ( JavaScript ) . 
@@ -50,12 +67,12 @@
   - [hacke2](https://github.com/hacke2/hacke2.github.io):`神马搜索`的前端
   - [icaife](https://github.com/icaife/icaife.github.com):人称"蔡哥",美乐乐前端
 
-- 弄潮儿
+### 弄潮儿
   - [karl seguin](https://github.com/karlseguin/karlseguin.github.com):掌握了很多新技术,`ruby`,`Node.js`,`Golang`等
     - [This Blog Is Now Hosted On Github](http://openmymind.net/2011/10/11/This-Blog-Is-Now-Hosted-On-Github/)
     - [胡家威,hujiaweibujidao](http://hujiaweibujidao.github.io/):喜欢Java/Python/Linux/Android/RaspberryPi
   
-- 游戏
+### 游戏
   - [Sarvagya Vaish](https://github.com/SarvagyaVaish/SarvagyaVaish.github.io):Campus Buzz的学生,看起来很想阿.不够他的两个项目挺好玩`2048-AI`和`FLappyBiredRL`
   - [ime@极客学院-plte](https://github.com/plter/plter.github.io):eoe社的.
   - [dabing1022](https://github.com/dabing1022/Blog):泰然网工程师,推荐的[博客资源](http://childhood.logdown.com/pages/blog-res)非常不错
@@ -64,7 +81,7 @@
   - [zhoujianghai](https://github.com/zhoujianghai/zhoujianghai.github.io):Tencent某studio从事手游开发
   - [leafsoar](https://github.com/leafsoar/leafsoar.github.com):讲解Cocos2d-x内部原理
 
-- python
+### python
   - [wong2](https://github.com/wong2/wong2.github.io):豆瓣`python`工程师一枚,人人网小黄鸡发明者.
   - [idning](https://github.com/idning/idning.github.com):`python`,`linux`
   - [codingnow-Alex Zhou的程序世界](https://github.com/zhoujianghai/zhoujianghai.github.io):`cocos2d-x`,`python`
@@ -75,23 +92,27 @@
   - [soimort](https://github.com/soimort/soimort.github.io):写了`python`下载YouTube,优酷视频的脚本.属于脚本控.
   - [qiwsir](https://github.com/qiwsir/qiwsir.github.io):软件技术服务提供者，喜欢编程，以写代码为乐趣。
 
-- Android
+### Android
   - [李明亮,mthli](https://mthli.github.io):来自于[西安电子科技大学开源社区](https://github.com/xdlinux)的一员,作品有`极客公园APP`和在Android手机上查看`github`上的代码.
   - [Trinea](https://github.com/Trinea/trinea.github.com):开源android项目汇总.用过 C++，敲过汇编，有 PHP 和 C# 网站项目，Hello World 过 Matlab 和 Delphi。一直主攻 Java，专于性能调优和框架设计。
 
-- IOS
+### IOS
   - [ibireme](https://github.com/ibireme/ibireme.github.com):注意看下`github/list/ios`子目录,开源IOS项目汇总.
   - [lzyy](https://github.com/lzyy/lzyy.github.com):ActionScript / HTML+CSS+Javscript -> PHP -> Python -> Objective-C
   - [liushuaikobe](https://github.com/liushuaikobe/liushuaikobe.github.io):阿里巴巴ios工程师一枚.
 
-- Ruby
+### Ruby
   - [songjiayang](https://github.com/songjiayang/songjiayang.github.io):会java,主业Ruby的[gigabase](http://gigabase.org/)工程师一枚.
   - [脱线道士维克多](https://github.com/wjp2013/wjp2013.github.io):信萨满教，修道的程序员。有一些 API 开发的相关经验和文章。
 
-- Java
+### Java
   - [novoland](https://github.com/novoland/blog):关注java并发和底层.
 
-- other
+### Students
+  - [andylei1993](http://andylei1993.github.io/about/):学生一枚,不过有追求.现在的学生都了不得了.
+
+
+### other
   - [livid](https://github.com/livid/livid.github.com):去过[v2ex](http://www.v2ex.com/)网站的程序员不用我介绍了吧.
   - [halida](https://github.com/halida/halida.github.com):c/c++/D/lua/delphi/python/js/coffeescript/ruby/lisp
   - [write blog on github](http://matrix207.github.io/2012/09/09/write-blog-on-github/)
@@ -104,5 +125,3 @@
   - [hawstein](https://github.com/Hawstein/hawstein.github.com):python,c++,linux,java
   - [beiyuu](https://github.com/beiyuu/Github-Pages-Example):`OverAPI`的作者,写`chrome`插件.
 
-- Students
-  - [andylei1993](http://andylei1993.github.io/about/):学生一枚,不过有追求.现在的学生都了不得了.
