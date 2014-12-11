@@ -3,12 +3,11 @@
 --------------------
 ### 目录
 
-* [推荐用github pages当做项目介绍](#推荐用github pages当做项目介绍类)
-* [推荐用github pages做博客的牛人们](#推荐用github pages做博客的牛人们)
+* [github pages for project](#github pages for project)
+* [github pages for blog](#github pages for blog)
   * [linux](#linux)
-  * [前端](#前端)
-  * [弄潮儿](#弄潮儿)
-  * [游戏](#游戏)
+  * [front-end](#front-end)
+  * [game](#game)
   * [python](#python)
   * [Android](#Android)
   * [IOS](#IOS)
@@ -18,7 +17,7 @@
   * [other](#other)
 
 
-##推荐用github pages当做项目介绍
+##github pages for project
 
 - [七牛开发者中心](https://github.com/qiniu/developer.qiniu.com)
 - [AlloyTeam ](https://github.com/AlloyTeam/alloyteam.github.com)
@@ -44,14 +43,14 @@
 - [EFE](http://ecomfe.github.io/#platform):百度商业体系前端团队,采用单页面展示,如果你知道`echarts`的话.
 - [spring](https://github.com/spring-projects/gh-pages):把公共的部分抽象了出来,看起来很带感,没想到写文档还能这么抽象化,哈哈!
 
-##推荐用github pages做博客的牛人们
+##github pages for blog
 
 ### linux
   - [matrix207](http://matrix207.github.io/):`c/c++`,`Linux`工程师一枚
   - [tankywoo](https://github.com/tankywoo/tankywoo.github.io):Simiki的作者
   - [alwayswithme](http://alwayswithme.github.io/about.html):Linuxer,Coder
 
-### 前端
+### front-end
   - [岁月如歌](https://github.com/lifesinger/lifesinger.github.com) :阿里前端工程师一枚
   - [梦想天空](https://github.com/dreamsky/dreamsky.github.com):前端热门资料收集者
   - [ycf,you can fly](https://github.com/YCF/ycf.github.io):My blog powered by Hooloo ( JavaScript ) . 
@@ -67,12 +66,8 @@
   - [hacke2](https://github.com/hacke2/hacke2.github.io):`神马搜索`的前端
   - [icaife](https://github.com/icaife/icaife.github.com):人称"蔡哥",美乐乐前端
 
-### 弄潮儿
-  - [karl seguin](https://github.com/karlseguin/karlseguin.github.com):掌握了很多新技术,`ruby`,`Node.js`,`Golang`等
-    - [This Blog Is Now Hosted On Github](http://openmymind.net/2011/10/11/This-Blog-Is-Now-Hosted-On-Github/)
-    - [胡家威,hujiaweibujidao](http://hujiaweibujidao.github.io/):喜欢Java/Python/Linux/Android/RaspberryPi
-  
-### 游戏
+
+### game
   - [Sarvagya Vaish](https://github.com/SarvagyaVaish/SarvagyaVaish.github.io):Campus Buzz的学生,看起来很想阿.不够他的两个项目挺好玩`2048-AI`和`FLappyBiredRL`
   - [ime@极客学院-plte](https://github.com/plter/plter.github.io):eoe社的.
   - [dabing1022](https://github.com/dabing1022/Blog):泰然网工程师,推荐的[博客资源](http://childhood.logdown.com/pages/blog-res)非常不错
@@ -122,6 +117,9 @@
   - [crhan](https://github.com/crhan/crhan.github.io):阿里巴巴,对Bash用的比较多
   - [steveliles](https://github.com/steveliles/steveliles.github.com):一个`code every day Development Manager`
   - [JackRex](https://github.com/jackrex/jackrex.github.comJackRex):`ios`和`Android`都能搞的一个牛人.
+    - [karl seguin](https://github.com/karlseguin/karlseguin.github.com):掌握了很多新技术,`ruby`,`Node.js`,`Golang`等
+    - [This Blog Is Now Hosted On Github](http://openmymind.net/2011/10/11/This-Blog-Is-Now-Hosted-On-Github/)
+    - [胡家威,hujiaweibujidao](http://hujiaweibujidao.github.io/):喜欢Java/Python/Linux/Android/RaspberryPi
   - [hawstein](https://github.com/Hawstein/hawstein.github.com):python,c++,linux,java
   - [beiyuu](https://github.com/beiyuu/Github-Pages-Example):`OverAPI`的作者,写`chrome`插件.
 
