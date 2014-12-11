@@ -42,7 +42,7 @@
 - [mrdoob](https://github.com/mrdoob/mrdoob.github.com):设计风格别具一格.
 - [EFE](http://ecomfe.github.io/#platform):百度商业体系前端团队,采用单页面展示,如果你知道`echarts`的话.
 - [spring](https://github.com/spring-projects/gh-pages):把公共的部分抽象了出来,看起来很带感,没想到写文档还能这么抽象化,哈哈!
-
+ - [projects.spring.io](https://github.com/spring-projects/spring-projects.github.io):Root of Spring project gh-pages sites
 ##github pages for blog
 
 ### linux
