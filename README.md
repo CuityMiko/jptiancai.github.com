@@ -98,6 +98,7 @@
   - [ibireme](https://github.com/ibireme/ibireme.github.com):注意看下`github/list/ios`子目录,开源IOS项目汇总.
   - [lzyy](https://github.com/lzyy/lzyy.github.com):ActionScript / HTML+CSS+Javscript -> PHP -> Python -> Objective-C
   - [liushuaikobe](https://github.com/liushuaikobe/liushuaikobe.github.io):阿里巴巴ios工程师一枚.
+  - [limboy](http://limboy.me/resume.html):`时光网`-->`凤凰网`-->`知乎`--->`花瓣`,php,python,目前主力ios
 
 ### Ruby
   - [songjiayang](https://github.com/songjiayang/songjiayang.github.io):会java,主业Ruby的[gigabase](http://gigabase.org/)工程师一枚.
