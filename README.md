@@ -67,6 +67,7 @@
   - [hacke2](https://github.com/hacke2/hacke2.github.io):`神马搜索`的前端
   - [icaife](https://github.com/icaife/icaife.github.com):人称"蔡哥",美乐乐前端
   - [djyde](http://djyde.github.io):本地离线存储解决方案-`StoreDB`,RSS Reader-`EverFeed`
+  - [ambar](https://github.com/ambar/ambar.github.com):开源`Tetris`
 
 
 ### game
