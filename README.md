@@ -69,6 +69,7 @@
   - [djyde](http://djyde.github.io):本地离线存储解决方案-`StoreDB`,RSS Reader-`EverFeed`
   - [ambar](https://github.com/ambar/ambar.github.com):开源`Tetris`
   - [csshan](https://github.com/hanan198501/hanan198501.github.io):去哪儿网，前端开发工程师。
+  - [Sidong](https://github.com/Sidong/blog):`MyGitStar`作者，管理你的Github Star！
 
 
 ### game
