@@ -130,4 +130,5 @@
     - [胡家威,hujiaweibujidao](http://hujiaweibujidao.github.io/):喜欢Java/Python/Linux/Android/RaspberryPi
   - [hawstein](https://github.com/Hawstein/hawstein.github.com):python,c++,linux,java
   - [beiyuu](https://github.com/beiyuu/Github-Pages-Example):`OverAPI`的作者,写`chrome`插件.
+  - [hominlinx](http://hominlinx.github.io/about/):学的物理电子，现在从事C++地图开发
 
