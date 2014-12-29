@@ -14,6 +14,7 @@
   * [Ruby](#ruby)
   * [Java](#java)
   * [Students](#students)
+  * [Full-Stack](#full-stack)
   * [other](#other)
 
 
@@ -117,6 +118,8 @@
 ### Students
   - [andylei1993](http://andylei1993.github.io/about/):学生一枚,不过有追求.现在的学生都了不得了.
 
+### full-stack
+  - [alexcheng1982](https://github.com/alexcheng1982/personal-website):技术移民到新西兰的大牛,博客地址:[http://www.midgetontoes.com/](http://www.midgetontoes.com/)
 
 ### other
   - [livid](https://github.com/livid/livid.github.com):去过[v2ex](http://www.v2ex.com/)网站的程序员不用我介绍了吧.
