@@ -114,6 +114,7 @@
 
 ### Java
   - [novoland](https://github.com/novoland/blog):关注java并发和底层.
+  - [waylau](http://www.waylau.com/about/):J2EE+SVG+Flex/AS3
 
 ### Students
   - [andylei1993](http://andylei1993.github.io/about/):学生一枚,不过有追求.现在的学生都了不得了.
