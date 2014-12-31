@@ -113,6 +113,7 @@
 ### Ruby
   - [songjiayang](https://github.com/songjiayang/songjiayang.github.io):会java,主业Ruby的[gigabase](http://gigabase.org/)工程师一枚.
   - [脱线道士维克多](https://github.com/wjp2013/wjp2013.github.io):信萨满教，修道的程序员。有一些 API 开发的相关经验和文章。
+  - [chrismdp](https://github.com/chrismdp/chrismdp.github.com):I have spoken on Ruby, Cucumber, being agile, code quality and programmer education at conferences including Rubyconf, the Scottish Ruby Conference, and Software Craftsmanship North America and Software Craftsmanship UK.
 
 ### Java
   - [novoland](https://github.com/novoland/blog):关注java并发和底层.
