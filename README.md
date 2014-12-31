@@ -45,6 +45,7 @@
 - [spring](https://github.com/spring-projects/gh-pages):把公共的部分抽象了出来,看起来很带感,没想到写文档还能这么抽象化,哈哈!
  - [projects.spring.io](https://github.com/spring-projects/spring-projects.github.io):Root of Spring project gh-pages sites
  - [my-mind](http://my-mind.github.io/):Online Mindmapping Software
+ - [WebCollector](http://crawlscript.github.io/WebCollector/):A java crawler for infomation collection.
 
 ##github pages for blog
 
