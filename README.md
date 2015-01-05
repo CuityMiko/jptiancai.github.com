@@ -125,6 +125,7 @@
 
 ### full-stack
   - [alexcheng1982](https://github.com/alexcheng1982/personal-website):技术移民到新西兰的大牛,博客地址:[http://www.midgetontoes.com/](http://www.midgetontoes.com/)
+  - [luofei614](http://luofei.co/about):极客优才CTO，ThinkPHP核心开发者之一
 
 ### other
   - [livid](https://github.com/livid/livid.github.com):去过[v2ex](http://www.v2ex.com/)网站的程序员不用我介绍了吧.
