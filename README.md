@@ -46,6 +46,7 @@
  - [projects.spring.io](https://github.com/spring-projects/spring-projects.github.io):Root of Spring project gh-pages sites
  - [my-mind](http://my-mind.github.io/):Online Mindmapping Software
  - [WebCollector](http://crawlscript.github.io/WebCollector/):A java crawler for infomation collection.
+ - [brackets](https://github.com/adobe/brackets.io):Adobe出品的编辑器,详情参考[brackets：前端开发工程师必备编辑器](http://caibaojian.com/brackets-editor.html)
 
 ##github pages for blog
 
