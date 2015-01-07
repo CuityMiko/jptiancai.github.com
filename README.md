@@ -1,7 +1,7 @@
 不知道从什么时候开始喜欢上了用`Markdown`的格式写文章,越写越舒服,慢慢就离不开了.于是就找了一些可以用`Markdown`来写博客的网站,这里可以以参考知乎的一个讨论:[FarBox、Jekyll、Octopress、ghost、marboo、Hexo、Medium、Logdown、prose.io，这些博客程序有什么特点？](http://www.zhihu.com/question/21981094)
 
 --------------------
-### 目录
+### toc
 
 * [github-pages-for-project](#github-pages-for-project)
 * [github-pages-for-blog](#github-pages-for-blog)
@@ -44,12 +44,12 @@
 - [EFE](http://ecomfe.github.io/#platform):百度商业体系前端团队,采用单页面展示,如果你知道`echarts`的话.
 - [spring](https://github.com/spring-projects/gh-pages):把公共的部分抽象了出来,看起来很带感,没想到写文档还能这么抽象化,哈哈!
  - [projects.spring.io](https://github.com/spring-projects/spring-projects.github.io):Root of Spring project gh-pages sites
- - [my-mind](http://my-mind.github.io/):Online Mindmapping Software
- - [WebCollector](http://crawlscript.github.io/WebCollector/):A java crawler for infomation collection.
- - [brackets](https://github.com/adobe/brackets.io):Adobe出品的编辑器,详情参考[brackets：前端开发工程师必备编辑器](http://caibaojian.com/brackets-editor.html)
- - [dandelio](https://github.com/dandelion/dandelion.github.io): aimed at making web development simpler in JVM-based environments.
+- [my-mind](http://my-mind.github.io/):Online Mindmapping Software
+- [WebCollector](http://crawlscript.github.io/WebCollector/):A java crawler for infomation collection.
+- [brackets](https://github.com/adobe/brackets.io):Adobe出品的编辑器,详情参考[brackets：前端开发工程师必备编辑器](http://caibaojian.com/brackets-editor.html)
+- [dandelio](https://github.com/dandelion/dandelion.github.io): aimed at making web development simpler in JVM-based environments.
 
-##github pages for blog
+##github pages for blog [↑](toc)
 
 ### linux
   - [matrix207](http://matrix207.github.io/):`c/c++`,`Linux`工程师一枚
