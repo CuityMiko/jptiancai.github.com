@@ -53,6 +53,7 @@
   - [matrix207](http://matrix207.github.io/):`c/c++`,`Linux`工程师一枚
   - [tankywoo](https://github.com/tankywoo/tankywoo.github.io):Simiki的作者
   - [alwayswithme](http://alwayswithme.github.io/about.html):Linuxer,Coder
+  - [ibrother](http://blog.ibrother.me/about/):gentoo linux愛好者 kde桌面用戶 vim黨 
 
 ### front-end
   - [岁月如歌](https://github.com/lifesinger/lifesinger.github.com) :阿里前端工程师一枚
