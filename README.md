@@ -75,6 +75,7 @@
   - [Sidong](https://github.com/Sidong/blog):`MyGitStar`作者，管理你的Github Star！
   - [jser](http://jser.me/about.html):人人网高级前端工程师-->阿里UX资深前端工程师
   - [jacksontian](https://github.com/JacksonTian/jacksontian.github.com):`深入浅出Node.js`作者朴灵
+  - [scarletsky](http://scarletsky.github.io/):Web Developer,博客非常简洁.
 
 
 ### game
