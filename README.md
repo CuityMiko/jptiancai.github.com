@@ -48,6 +48,7 @@
 - [WebCollector](http://crawlscript.github.io/WebCollector/):A java crawler for infomation collection.
 - [brackets](https://github.com/adobe/brackets.io):Adobe出品的编辑器,详情参考[brackets：前端开发工程师必备编辑器](http://caibaojian.com/brackets-editor.html)
 - [dandelio](https://github.com/dandelion/dandelion.github.io): aimed at making web development simpler in JVM-based environments.
+- [webjars](https://github.com/webjars/webjars):Client-side web libraries packaged into JARs
 
 ##github pages for blog [↑](#toc)
 
