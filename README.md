@@ -13,6 +13,7 @@
   * [IOS](#ios)
   * [Ruby](#ruby)
   * [Java](#java)
+  * [PHP](#php)
   * [Students](#students)
   * [Full-Stack](#full-stack)
   * [other](#other)
@@ -125,6 +126,9 @@
 ### Java [↑](#toc)
   - [novoland](https://github.com/novoland/blog):关注java并发和底层.
   - [waylau](http://www.waylau.com/about/):J2EE+SVG+Flex/AS3
+
+### PHP [↑](#toc)
+  - [wulijun](https://github.com/wulijun/wulijun.github.com):PHP开发者,关注Nginx,PHP等Web开发技术的发展与应用
 
 ### Students [↑](#toc)
   - [andylei1993](http://andylei1993.github.io/about/):学生一枚,不过有追求.现在的学生都了不得了.
