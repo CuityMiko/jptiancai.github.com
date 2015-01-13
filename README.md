@@ -52,6 +52,7 @@
 - [webjars](https://github.com/webjars/webjars):Client-side web libraries packaged into JARs
 - [The Java Specialists' Newsletter Sources](https://github.com/kabutz/javaspecialists)
 - [Learn Ruby The Hard Way](https://github.com/lrthw/lrthw.github.com/):`Xdite`翻译的Learn Ruby The Hard Way中文版
+- [众成技术聚乐部](https://github.com/youngsterxyf/youngsterxyf.github.com):围绕技术主题,系统深入地学习讨论的俱乐部
 
 ##github pages for blog [↑](#toc)
 
