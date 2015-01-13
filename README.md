@@ -51,6 +51,7 @@
 - [dandelio](https://github.com/dandelion/dandelion.github.io): aimed at making web development simpler in JVM-based environments.
 - [webjars](https://github.com/webjars/webjars):Client-side web libraries packaged into JARs
 - [The Java Specialists' Newsletter Sources](https://github.com/kabutz/javaspecialists)
+- [Learn Ruby The Hard Way](https://github.com/lrthw/lrthw.github.com/):`Xdite`翻译的Learn Ruby The Hard Way中文版
 
 ##github pages for blog [↑](#toc)
 
