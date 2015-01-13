@@ -139,6 +139,7 @@
   - [alexcheng1982](https://github.com/alexcheng1982/personal-website):技术移民到新西兰的大牛,博客地址:[http://www.midgetontoes.com/](http://www.midgetontoes.com/)
   - [luofei614](http://luofei.co/about):极客优才CTO，ThinkPHP核心开发者之一
   - [killme2008](https://github.com/killme2008/blog.fnil.net):之前在淘宝,现在在[AVOS Cloud](https://cn.avoscloud.com/)
+  - [youngsterxyf](http://youngsterxyf.github.io/pages/aboutme.html):Go,Python,PHP,Linux都有涉猎!
 
 ### other [↑](#toc)
   - [livid](https://github.com/livid/livid.github.com):去过[v2ex](http://www.v2ex.com/)网站的程序员不用我介绍了吧.
