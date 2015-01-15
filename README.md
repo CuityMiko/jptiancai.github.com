@@ -135,6 +135,7 @@
 
 ### Students [↑](#toc)
   - [andylei1993](http://andylei1993.github.io/about/):学生一枚,不过有追求.现在的学生都了不得了.
+  - [armsword](https://github.com/armsword/armsword.github.io):编程语言主要为为C/C++、Python，技术类爱好广泛，涉猎较广，网络编程爱好者，搜索引擎技术爱好者，网络安全爱好者
 
 ### full-stack [↑](#toc)
   - [alexcheng1982](https://github.com/alexcheng1982/personal-website):技术移民到新西兰的大牛,博客地址:[http://www.midgetontoes.com/](http://www.midgetontoes.com/)
