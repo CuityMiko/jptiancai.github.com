@@ -54,6 +54,7 @@
 - [Learn Ruby The Hard Way](https://github.com/lrthw/lrthw.github.com/):`Xdite`翻译的Learn Ruby The Hard Way中文版
 - [众成技术聚乐部](https://github.com/youngsterxyf/youngsterxyf.github.com):围绕技术主题,系统深入地学习讨论的俱乐部
 - [zsh](https://github.com/tadeuzagallo/zsh.js):A web version of my terminal, http://tadeuzagallo.com
+- [ngMario](https://github.com/karol-f/ngMario):Learn AngularJS playing Super Mario Brothers,每个功能都让你清楚是怎么触发的.
 
 ##github pages for blog [↑](#toc)
 
