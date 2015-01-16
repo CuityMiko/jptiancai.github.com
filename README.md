@@ -143,6 +143,7 @@
   - [luofei614](http://luofei.co/about):极客优才CTO，ThinkPHP核心开发者之一
   - [killme2008](https://github.com/killme2008/blog.fnil.net):之前在淘宝,现在在[AVOS Cloud](https://cn.avoscloud.com/)
   - [youngsterxyf](http://youngsterxyf.github.io/pages/aboutme.html):Go,Python,PHP,Linux都有涉猎!
+  - [summerblue](https://github.com/summerblue/summerblue.me):Web & Mobile Developer, Designer.动画超棒!
 
 ### other [↑](#toc)
   - [livid](https://github.com/livid/livid.github.com):去过[v2ex](http://www.v2ex.com/)网站的程序员不用我介绍了吧.
