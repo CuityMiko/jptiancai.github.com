@@ -96,6 +96,7 @@
   - [fusijie](https://github.com/fusijie/fusijie.github.com):`微信飞机大战`,`玩转cocos2d-x 系列`,`Earth Warrior 3D`和`Wagon War`的作者 
   - [zhoujianghai](https://github.com/zhoujianghai/zhoujianghai.github.io):Tencent某studio从事手游开发
   - [leafsoar](https://github.com/leafsoar/leafsoar.github.com):讲解Cocos2d-x内部原理
+  - [silangquan](https://github.com/SilangQuan/silangquan.github.com):Tencent Game Developer 
 
 ### python [↑](#toc)
   - [wong2](https://github.com/wong2/wong2.github.io):豆瓣`python`工程师一枚,人人网小黄鸡发明者.
