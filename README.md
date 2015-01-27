@@ -1,7 +1,8 @@
 不知道从什么时候开始喜欢上了用`Markdown`的格式写文章,越写越舒服,慢慢就离不开了.于是就找了一些可以用`Markdown`来写博客的网站,这里可以以参考知乎的一个讨论:[FarBox、Jekyll、Octopress、ghost、marboo、Hexo、Medium、Logdown、prose.io，这些博客程序有什么特点？](http://www.zhihu.com/question/21981094)
 
 --------------------
-### toc
+<div id="toc">
+### 目录
 
 * [github-pages-for-project](#github-pages-for-project)
 * [github-pages-for-blog](#github-pages-for-blog)
@@ -9,13 +10,13 @@
   * [front-end](#front-end)
   * [game](#game)
   * [python](#python)
-  * [Android](#android)
-  * [IOS](#ios)
-  * [Ruby](#ruby)
-  * [Java](#java)
-  * [PHP](#php)
-  * [Students](#students)
-  * [Full-Stack](#full-stack)
+  * [Android](#Android)
+  * [IOS](#IOS)
+  * [Ruby](#Ruby)
+  * [Java](#Java)
+  * [PHP](#PHP)
+  * [Students](#Students)
+  * [Full-Stack](#Full-Stack)
   * [other](#other)
 
 
@@ -56,14 +57,18 @@
 - [zsh](https://github.com/tadeuzagallo/zsh.js):A web version of my terminal, http://tadeuzagallo.com
 - [ngMario](https://github.com/karol-f/ngMario):Learn AngularJS playing Super Mario Brothers,每个功能都让你清楚是怎么触发的.
 
+
+
 ##github pages for blog [↑](#toc)
 
+<div id="linux">
 ### linux [↑](#toc)
   - [matrix207](http://matrix207.github.io/):`c/c++`,`Linux`工程师一枚
   - [tankywoo](https://github.com/tankywoo/tankywoo.github.io):Simiki的作者
   - [alwayswithme](http://alwayswithme.github.io/about.html):Linuxer,Coder
   - [ibrother](http://blog.ibrother.me/about/):gentoo linux愛好者 kde桌面用戶 vim黨 
 
+<div id="front-end">
 ### front-end [↑](#toc)
   - [岁月如歌](https://github.com/lifesinger/lifesinger.github.com) :阿里前端工程师一枚
   - [梦想天空](https://github.com/dreamsky/dreamsky.github.com):前端热门资料收集者
@@ -87,7 +92,7 @@
   - [jacksontian](https://github.com/JacksonTian/jacksontian.github.com):`深入浅出Node.js`作者朴灵
   - [scarletsky](http://scarletsky.github.io/):Web Developer,博客非常简洁.
 
-
+<div id="game">
 ### game [↑](#toc)
   - [Sarvagya Vaish](https://github.com/SarvagyaVaish/SarvagyaVaish.github.io):Campus Buzz的学生,看起来很想阿.不够他的两个项目挺好玩`2048-AI`和`FLappyBiredRL`
   - [ime@极客学院-plte](https://github.com/plter/plter.github.io):eoe社的.
@@ -98,6 +103,7 @@
   - [leafsoar](https://github.com/leafsoar/leafsoar.github.com):讲解Cocos2d-x内部原理
   - [silangquan](https://github.com/SilangQuan/silangquan.github.com):Tencent Game Developer 
 
+<div id="python">
 ### python [↑](#toc)
   - [wong2](https://github.com/wong2/wong2.github.io):豆瓣`python`工程师一枚,人人网小黄鸡发明者.
   - [idning](https://github.com/idning/idning.github.com):`python`,`linux`
@@ -112,33 +118,40 @@
   - [lizherui](http://www.lizherui.com/pages/about.html):目前在百度实习,搜狐实习,现在在阿里.
   - [wklken](http://wklken.me/pages/aboutme.html):Python,Golang(半熟练, 辅助),Javascript(半熟练),Ruby(刚入门熟悉中),Java(曾经主力),C(读源码涉及, 没有项目经验)
 
+<div id="Android">
 ### Android [↑](#toc)
   - [李明亮,mthli](https://mthli.github.io):来自于[西安电子科技大学开源社区](https://github.com/xdlinux)的一员,作品有`极客公园APP`和在Android手机上查看`github`上的代码.
   - [Trinea](https://github.com/Trinea/trinea.github.com):开源android项目汇总.用过 C++，敲过汇编，有 PHP 和 C# 网站项目，Hello World 过 Matlab 和 Delphi。一直主攻 Java，专于性能调优和框架设计。
 
+<div id="IOS">
 ### IOS [↑](#toc)
   - [ibireme](https://github.com/ibireme/ibireme.github.com):注意看下`github/list/ios`子目录,开源IOS项目汇总.
   - [lzyy](https://github.com/lzyy/lzyy.github.com):ActionScript / HTML+CSS+Javscript -> PHP -> Python -> Objective-C
   - [liushuaikobe](https://github.com/liushuaikobe/liushuaikobe.github.io):阿里巴巴ios工程师一枚.
   - [limboy](http://limboy.me/resume.html):`时光网`-->`凤凰网`-->`知乎`--->`花瓣`,php,python,目前主力ios
 
+<div id="Ruby">
 ### Ruby [↑](#toc)
   - [songjiayang](https://github.com/songjiayang/songjiayang.github.io):会java,主业Ruby的[gigabase](http://gigabase.org/)工程师一枚.
   - [脱线道士维克多](https://github.com/wjp2013/wjp2013.github.io):信萨满教，修道的程序员。有一些 API 开发的相关经验和文章。
   - [chrismdp](https://github.com/chrismdp/chrismdp.github.com):I have spoken on Ruby, Cucumber, being agile, code quality and programmer education at conferences including Rubyconf, the Scottish Ruby Conference, and Software Craftsmanship North America and Software Craftsmanship UK.
   - [chloerei](https://github.com/chloerei/blog.selfstore.io):Web 开发者， ruby-china.org 管理员。
 
+<div id="Java">
 ### Java [↑](#toc)
   - [novoland](https://github.com/novoland/blog):关注java并发和底层.
   - [waylau](http://www.waylau.com/about/):J2EE+SVG+Flex/AS3
 
+<div id="PHP">
 ### PHP [↑](#toc)
   - [wulijun](https://github.com/wulijun/wulijun.github.com):PHP开发者,关注Nginx,PHP等Web开发技术的发展与应用
 
+<div id="Students">
 ### Students [↑](#toc)
   - [andylei1993](http://andylei1993.github.io/about/):学生一枚,不过有追求.现在的学生都了不得了.
   - [armsword](https://github.com/armsword/armsword.github.io):编程语言主要为为C/C++、Python，技术类爱好广泛，涉猎较广，网络编程爱好者，搜索引擎技术爱好者，网络安全爱好者
 
+<div id="full-stack">
 ### full-stack [↑](#toc)
   - [alexcheng1982](https://github.com/alexcheng1982/personal-website):技术移民到新西兰的大牛,博客地址:[http://www.midgetontoes.com/](http://www.midgetontoes.com/)
   - [luofei614](http://luofei.co/about):极客优才CTO，ThinkPHP核心开发者之一
@@ -147,6 +160,7 @@
   - [summerblue](https://github.com/summerblue/summerblue.me):Web & Mobile Developer, Designer.动画超棒!
   - [examplecode](http://examplecode.github.io/about.html):客户端，服务端领域的相关技术都有涉猎.极简主义,推荐的[Asscii流程图绘制](http://www.asciiflow.com/)不错
 
+<div id="other">
 ### other [↑](#toc)
   - [livid](https://github.com/livid/livid.github.com):去过[v2ex](http://www.v2ex.com/)网站的程序员不用我介绍了吧.
   - [halida](https://github.com/halida/halida.github.com):c/c++/D/lua/delphi/python/js/coffeescript/ruby/lisp
