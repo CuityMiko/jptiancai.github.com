@@ -141,6 +141,7 @@
 ### Java [↑](#toc)
   - [novoland](https://github.com/novoland/blog):关注java并发和底层.
   - [waylau](http://www.waylau.com/about/):J2EE+SVG+Flex/AS3
+  - [huguangju](https://github.com/huguangju/huguangju.github.io):关注spring，有一个非常不错的[wiki]https://github.com/huguangju/wiki)资源。
 
 <div id="PHP">
 ### PHP [↑](#toc)
