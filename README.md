@@ -129,6 +129,7 @@
   - [lzyy](https://github.com/lzyy/lzyy.github.com):ActionScript / HTML+CSS+Javscript -> PHP -> Python -> Objective-C
   - [liushuaikobe](https://github.com/liushuaikobe/liushuaikobe.github.io):阿里巴巴ios工程师一枚.
   - [limboy](http://limboy.me/resume.html):`时光网`-->`凤凰网`-->`知乎`--->`花瓣`,php,python,目前主力ios
+  - [callmewhy](https://github.com/callmewhy/whyblog):热爱iOS开发，推荐看文章[要你命三千：老代码中的那些坑](http://callmewhy.gitcafe.io/2015/01/20/wtf-in-old-code/)文笔不错，
 
 <div id="Ruby">
 ### Ruby [↑](#toc)
