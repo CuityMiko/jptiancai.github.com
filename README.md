@@ -160,7 +160,7 @@
   - [luofei614](http://luofei.co/about):极客优才CTO，ThinkPHP核心开发者之一
   - [killme2008](https://github.com/killme2008/blog.fnil.net):之前在淘宝,现在在[AVOS Cloud](https://cn.avoscloud.com/)
   - [youngsterxyf](http://youngsterxyf.github.io/pages/aboutme.html):Go,Python,PHP,Linux都有涉猎!
-  - [summerblue](https://github.com/summerblue/summerblue.me):Web & Mobile Developer, Designer.动画超棒![phphub网站](https://phphub.org/about)的作者
+  - [summerblue](https://github.com/summerblue/summerblue.me):Web & Mobile Developer, Designer.动画超棒.[phphub网站](https://phphub.org/about)的作者
   - [examplecode](http://examplecode.github.io/about.html):客户端，服务端领域的相关技术都有涉猎.极简主义,推荐的[Asscii流程图绘制](http://www.asciiflow.com/)不错
 
 <div id="other">
