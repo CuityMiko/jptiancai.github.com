@@ -145,7 +145,8 @@
   - [waylau](http://www.waylau.com/about/):J2EE+SVG+Flex/AS3
   - [huguangju](https://github.com/huguangju/huguangju.github.io):关注spring，有一个非常不错的[wiki]https://github.com/huguangju/wiki)资源。
   - [youli9056](https://github.com/youli9056/youli9056.github.io):Java垃圾回收机制讲解的不错
-  - [jamespan](http://jamespan.github.io/blog/about/):本人潘家邦，计算机科学爱好者，开源爱好者，曾经的Python汪，现在已经化身Java狗
+  - [jamespan](http://jamespan.github.io/blog/about/):菜鸟网络,本人潘家邦，计算机科学爱好者，开源爱好者，曾经的Python汪，现在已经化身Java狗
+  - [oldmanpushcart](http://oldmanpushcart.github.io/about/):菜鸟网络,文章`聊聊性奋的事`不错.
 
 <div id="PHP">
 ### PHP [↑](#toc)
