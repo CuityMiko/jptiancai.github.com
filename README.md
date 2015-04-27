@@ -148,7 +148,7 @@
   - [jamespan](http://jamespan.github.io/blog/about/):菜鸟网络,本人潘家邦，计算机科学爱好者，开源爱好者，曾经的Python汪，现在已经化身Java狗
   - [oldmanpushcart](http://oldmanpushcart.github.io/about/):菜鸟网络,文章`聊聊性奋的事`不错.
   - [Masterwind](http://itweige.com/AboutMe/):web开发 / 系统架构设计 / Java相关 / 数据检索 / 流媒体 etc.
-  - [ningg](http://ningg.top/about/):有一个支持Notepad++的markdown插件项目.
+  - [ningg](http://ningg.top/about/):有一个支持Notepad++的markdown插件项目.见[markdown入门介绍](http://ningg.top/introduction-to-markdown/)
 
 <div id="PHP">
 ### PHP [↑](#toc)
