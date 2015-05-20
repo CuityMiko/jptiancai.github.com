@@ -138,6 +138,7 @@
   - [脱线道士维克多](https://github.com/wjp2013/wjp2013.github.io):信萨满教，修道的程序员。有一些 API 开发的相关经验和文章。
   - [chrismdp](https://github.com/chrismdp/chrismdp.github.com):I have spoken on Ruby, Cucumber, being agile, code quality and programmer education at conferences including Rubyconf, the Scottish Ruby Conference, and Software Craftsmanship North America and Software Craftsmanship UK.
   - [chloerei](https://github.com/chloerei/blog.selfstore.io):Web 开发者， ruby-china.org 管理员。
+  - [Peter's Corner](http://happypeter.github.io/resume.html):Linux 讲师-->Ruby On Rails
 
 <div id="Java">
 ### Java [↑](#toc)
