@@ -92,6 +92,7 @@
   - [jser](http://jser.me/about.html):人人网高级前端工程师-->阿里UX资深前端工程师
   - [jacksontian](https://github.com/JacksonTian/jacksontian.github.com):`深入浅出Node.js`作者朴灵
   - [scarletsky](http://scarletsky.github.io/):Web Developer,博客非常简洁.
+  - [jayli](http://jayli.github.io/blog/about.html):阿里-航旅-无线技术部,淘宝花名：拔赤（bachi@taobao.com）
 
 <div id="game">
 ### game [↑](#toc)
