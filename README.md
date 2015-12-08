@@ -191,4 +191,5 @@
   - [prakhar1989](https://github.com/prakhar1989/prakhar1989.github.com):致力于分享外国有名的教学课程
   - [robblewis](https://github.com/rmlewisuk/robblewis.me):a developer working and studying in Portsmouth.
   - [weekwood](http://diwu.me/about/index.html):iOS/Javascript 开发者
+  - [open-source-monthly](https://alysonla.github.io/open-source-monthly/):github员工，Alyson La写的github上一个月以来top项目
 
