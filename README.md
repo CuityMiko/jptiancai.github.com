@@ -173,7 +173,7 @@
 
 <div id="db">
 ### DB [↑](#toc)
-  - [ruiaylin](http://ruiaylin.github.io/):支付宝-->汽车之家
+  - [ruiaylin](http://ruiaylin.github.io/):由[mysql load data 操纵数据](http://ruiaylin.github.io/2014/02/17/mysql-load-data/)了解到，工作履历是支付宝-->汽车之家
   
 <div id="other">
 ### other [↑](#toc)
