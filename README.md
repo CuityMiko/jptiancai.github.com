@@ -170,6 +170,7 @@
   - [youngsterxyf](http://youngsterxyf.github.io/pages/aboutme.html):Go,Python,PHP,Linux都有涉猎!
   - [summerblue](https://github.com/summerblue/summerblue.me):Web & Mobile Developer, Designer.动画超棒.[phphub网站](https://phphub.org/about)的作者
   - [examplecode](http://examplecode.github.io/about.html):客户端，服务端领域的相关技术都有涉猎.极简主义,推荐的[Asscii流程图绘制](http://www.asciiflow.com/)不错
+  - [逸言](http://agiledon.github.io/about/):张逸，现为ThoughtWorks Lead Consultant。爱开发，喜阅读，好写作
 
 <div id="db">
 ### DB [↑](#toc)
