@@ -4,6 +4,11 @@
 <div id="toc">
 ### 目录
 
+
+<details>
+
+<!-- toc -->
+
 * [github-pages-for-project](#github-pages-for-project)
 * [github-pages-for-blog](#github-pages-for-blog)
   * [linux](#linux)
@@ -19,6 +24,10 @@
   * [Full-Stack](#Full-Stack)
   * [DB](#db)
   * [other](#other)
+
+<!-- tocstop -->
+
+</details>
 
 
 ##github pages for project
